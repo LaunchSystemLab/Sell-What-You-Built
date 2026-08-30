@@ -6,12 +6,6 @@
   </p>
 </p>
 
-<p align="center">
-  <a href="https://www.launchsystemlab.com/sell-what-you-built">
-    <img src="https://img.shields.io/badge/Get%20the%20Blueprint-$27-blue?style=for-the-badge" alt="Get the Blueprint">
-  </a>
-</p>
-
 ---
 
 ## The Best Product Doesn't Win  
